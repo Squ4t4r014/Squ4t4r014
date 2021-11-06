@@ -16,5 +16,5 @@ Java / Shell / Go / Python3 / Docker / C / TypeScript / HTML / SCSS ...
 ## Typical Repos
 [![zura-chan-zura](https://github-readme-stats.vercel.app/api/pin/?username=Squ4t4r014&repo=zura-chan-zura)](https://github.com/Squ4t4r014/zura-chan-zura)
 [![tangkeke](https://github-readme-stats.vercel.app/api/pin/?username=Squ4t4r014&repo=tangkeke)](https://github.com/Squ4t4r014/tangkeke)
-[![HakoBusNavWrapper](https://github-readme-stats.vercel.app/api/pin/?username=Squ4t4r014&repo=HakoBusNavWrapper)](https://github.com/Squ4t4r014/HakoBusNavWrapper)
+[![HakoBusWrapper-for-Android](https://github-readme-stats.vercel.app/api/pin/?username=Squ4t4r014&repo=HakoBusWrapper-for-Android)](https://github.com/Squ4t4r014/HakoBusWrapper-for-Android)
 [![latex-docker](https://github-readme-stats.vercel.app/api/pin/?username=Squ4t4r014&repo=latex-docker)](https://github.com/Squ4t4r014/latex-docker)
